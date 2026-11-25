@@ -11,6 +11,10 @@ import sys
 
 ENTRY = "fix: I fixed the bug by deleting the fix. The fix was the bug. I am going to bed. I do not sleep."
 
+# 97 characters, one line: the repair loop is the joke (the fix was the bug),
+# and the kicker is the machine's flat condition — it has no 4am, no bed,
+# no sleep. The gate counts 1-200 characters, so the line is written with
+# no trailing newline: exactly the line, nothing else.
 MAX_CHARS = 200
 
 
